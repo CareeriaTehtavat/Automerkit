@@ -29,3 +29,9 @@ Toyota
 Porshe
 Ferrari
 ```
+> [!IMPORTANT]
+> Koodin kirjoittamisen johdanto
+1. Kloonaa projekti omalle koneellesi.
+2. Avaa `ConsoleApp.sln`.
+3. Solution-ikkunasta valitse "ConsoleApp".
+4. Pääkoodi löytyy `Program.cs`-tiedostosta. Jos tarvitset, luo uudet itemit `ConsoleApp`-projektiin.
